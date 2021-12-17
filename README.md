@@ -1,1 +1,1 @@
-# Visual-Cryptography-Signature
+# Visual-Cryptography-Watermark
